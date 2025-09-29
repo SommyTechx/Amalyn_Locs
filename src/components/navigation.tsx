@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
-import logoImage from "@/assets/logo.png";
+import logoImage from "@/assets/Logo.png";
 
 interface NavigationProps {
   currentPage: string;
